@@ -7,6 +7,7 @@ diaries = [
     DiarySample(), 
     MatsudoDiary(),
     KimuraDiary()
+    AsaiDiary()
 ]
 
 for d in diaries:
