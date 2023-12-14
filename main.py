@@ -3,7 +3,6 @@ from diaries.MatsudoDiary import MatsudoDiary
 from diaries.KimuraDiary import KimuraDiary
 from diaries.AsaiDiary import AsaiDiary
 from diaries.GomamonoDiary import GomamonoDiary
-
 from diaries.MasakiDiary import MasakiDiary
 from diaries.MunemasaDiary import MunemasaDiary
 from diaries.KawadaDiary import KawadaDiary
