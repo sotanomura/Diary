@@ -6,6 +6,7 @@ from diaries.GomamonoDiary import GomamonoDiary
 from diaries.MasakiDiary import MasakiDiary
 from diaries.MunemasaDiary import MunemasaDiary
 from diaries.KawadaDiary import KawadaDiary
+from diaries.sotanomuraDiary import sotanomuraDiary
 
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
@@ -16,7 +17,8 @@ diaries = [
     GomamonoDiary(),
     MasakiDiary(),
     MunemasaDiary(),
-    KawadaDiary()
+    KawadaDiary(),
+    sotanomuraDiary()
 
 ]
 
